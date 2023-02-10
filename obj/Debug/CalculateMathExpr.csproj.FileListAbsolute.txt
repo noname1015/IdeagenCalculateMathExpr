@@ -1,0 +1,12 @@
+C:\LEH\CalculateMathExpr\CalculateMathExpr\CalculateMathExpr\bin\Debug\CalculateMathExpr.exe.config
+C:\LEH\CalculateMathExpr\CalculateMathExpr\CalculateMathExpr\bin\Debug\CalculateMathExpr.exe
+C:\LEH\CalculateMathExpr\CalculateMathExpr\CalculateMathExpr\bin\Debug\CalculateMathExpr.pdb
+C:\LEH\CalculateMathExpr\CalculateMathExpr\CalculateMathExpr\obj\Debug\CalculateMathExpr.csprojResolveAssemblyReference.cache
+C:\LEH\CalculateMathExpr\CalculateMathExpr\CalculateMathExpr\obj\Debug\CalculateMathExpr.Form1.resources
+C:\LEH\CalculateMathExpr\CalculateMathExpr\CalculateMathExpr\obj\Debug\CalculateMathExpr.Properties.Resources.resources
+C:\LEH\CalculateMathExpr\CalculateMathExpr\CalculateMathExpr\obj\Debug\CalculateMathExpr.csproj.GenerateResource.Cache
+C:\LEH\CalculateMathExpr\CalculateMathExpr\CalculateMathExpr\obj\Debug\CalculateMathExpr.exe
+C:\LEH\CalculateMathExpr\CalculateMathExpr\CalculateMathExpr\obj\Debug\CalculateMathExpr.pdb
+C:\LEH\GitHub\CalculateMathExpr\bin\Debug\CalculateMathExpr.exe.config
+C:\LEH\GitHub\CalculateMathExpr\obj\Debug\CalculateMathExpr.exe
+C:\LEH\GitHub\CalculateMathExpr\obj\Debug\CalculateMathExpr.pdb
